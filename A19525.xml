@@ -1,0 +1,208 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The craft of graffing and planting of trees</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1563</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A19525</idno>
+            <idno type="STC">STC 5954</idno>
+            <idno type="STC">ESTC S121130</idno>
+            <idno type="EEBO-CITATION">99856317</idno>
+            <idno type="PROQUEST">99856317</idno>
+            <idno type="VID">21852</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A19525)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 21852)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 879:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The craft of graffing and planting of trees</title>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>In Lothbery ouer agay[n]st S. Margarets church by me Wyllyam Copland,</publisher>
+                  <pubPlace>[Imprynted at London :</pubPlace>
+                  <date>[1563?]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>An edition of: The crafte of graffyng and plantynge of trees.</note>
+                  <note>Place of publication and printer's name from colophon; publication date conjectured by STC.</note>
+                  <note>With woodcut title vignette.</note>
+                  <note>Signatures: A-B⁴.</note>
+                  <note>Reproduction of the original in the University of Wisconsin, Madison, Wis. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fruit-culture --  Early works to 1800.</term>
+               <term>Grafting --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:21852:1"/>
+            <pb facs="tcp:21852:1" rendition="simple:additions"/>
+            <head>The craft of Graffing and planting of trees,</head>
+            <p>
+               <figure/>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:21852:2" rendition="simple:additions"/>
+            <p n="1">
+               <seg rend="decorInit">T</seg>O graffe fruyte that ſhall haue no core. Take a graffe and bow it both ends combing, &amp; cut both ends graf wyſe, &amp; ſo faſten them into the ſtoke. And yf it growe ſo with the tree cut a waye the great ende, and let y<hi rend="sup">e</hi> ſma<g ref="char:EOLunhyphen"/>ler ende growe, and hys fruyte ſhall haue no core.</p>
+            <p n="2">yf thou wylt make apples read, take a grafe of an apple tree and graffe it in a ſtoke of elme or allere a<g ref="char:cmbAbbrStroke">̄</g>d it ſhall beare redde apples.</p>
+            <p>Alſo another for the ſame, bore an hole in an apple tree to the pithe and temper it with water what col<g ref="char:EOLunhyphen"/>our thou wylte, and then put it in the hole and ſtope it with a pin and the apple ſhalbe of the ſame colour that thou puteſt in the tree.</p>
+            <p>It is to be noted that euery tree that is plantede and ſet on. S. Lambardes day in the earth, ſhall not periſhe but proue and come to profyt.</p>
+            <p>yf thou wylt haue a Pere tree full of frute or els as moch as it hath ben wont to bere, tempre ſcamo<g ref="char:EOLhyphen"/>ny with water and put it into an hole that is perced to the pith of the tree, &amp; ſtop the hole with a pynne of that ſame tree or of a nother, and it ſhall beare as yt was wont and muche more.</p>
+            <p n="3">And yf thou wylt haue the<g ref="char:cmbAbbrStroke">̄</g> to ſmell lyke ſpyces or as muſke or bawme or other ſpices, make an hole in lykwiſe in the tree and ſtop it agayne, and the fruyte ſhall ſmel &amp; ſauour after the ſpices that thou puteſt into the tree.</p>
+            <p n="4">Yf an olde tree begin to waxe drye, do in thys wyſe
+<pb facs="tcp:21852:2" rendition="simple:additions"/>quicken hym a gaine. Se that y<hi rend="sup">e</hi> eares that is bout the rotes be done a way, &amp; cleue .ii. or .iii. of the grea<g ref="char:EOLunhyphen"/>teſt, rotes wyth an axe, and putte a wedge in to the cleuyng, and couer the roote agayne with the ſame earth.</p>
+            <p>Another for the ſame, perce the tree through wyth apercer croſſe wyſe or wyth a wymble, &amp; the ſtre<g ref="char:cmbAbbrStroke">̄</g>gth of the tree ſhall begyn to waxe yonge.</p>
+            <p n="5">Yf thou wylt haue a fruyte tree that is ſoure, to be made ſwete fruyte, delue the tree round about, &amp; donge the rotes with pygges donge, and ſo ſhall the fruyte be made ſwete.</p>
+            <p>Alſo another for the ſame, make an hole in y<hi rend="sup">e</hi> ſoure tree with a percer to the pythe, a<g ref="char:cmbAbbrStroke">̄</g>d into the hole put water tempred with hony, and ſtoppe that hole agai<g ref="char:EOLunhyphen"/>ne with a pynne of the ſame tree.</p>
+            <p n="6">And if thou wilte plante an almonde tree or a wal not tree, or a Therye tree or a Peche tre, put the ker<g ref="char:EOLhyphen"/>nels of whiche thou wilte in water four dayes, and than put many kernelles together into the earth or ſeuerally &amp; whan they ſprynge &amp; be growen out and hath ſtand ſo an hole yeare, than take them out of y<hi rend="sup">e</hi> ground, and ſet them than wher thou wylt, and it is to be noted that euery tree the braunches muſte be cut in ſettyng tyme, ſaue the peche tree whych muſt haue hys drye braunches cut onely.</p>
+            <p n="7">yf the peche tree begine to droupe, let him be wel moyſted at y<hi rend="sup">e</hi> rote w<hi rend="sup">t</hi> dregges of wyne, and the ſame moyſting ſhall kepe hym from ſheding of his fruyte, and ſome ſaye that and the rootes be moyſted wyth water of the decoccyon of benes, it ſhal quicke<g ref="char:cmbAbbrStroke">̄</g> y<hi rend="sup">e</hi> tre
+<pb facs="tcp:21852:3" rendition="simple:additions"/>greatly, and if he caſle his frute or thei be ripe, make holes wyth a wymbel in the rotees, &amp; mayke pinnes of wylowe and ſmyte them faſt in, &amp; the fruyte ſhall abyde on faſt ynough.</p>
+            <p n="8">If an apple tree begyn to rote or ani of the apples begene to waxe roſty, then the barke of hym is ſycke then cut it with a knife, lette it be opened, and whan y<hi rend="sup">e</hi> humour ther of is ſum what flowen ouer, let dong hym well and ſtop dilygentlye hys wound with claie.</p>
+            <p n="9">The quince tree al the tyme that he is able to be tranſlated, he would be remoued eueri foure year, &amp; that ſhall make him beare great plenty of fruyte af<g ref="char:EOLhyphen"/>ter warde.</p>
+            <p n="10">The chery tree loueth colde ayre &amp; moyſte grounde but ſum chery trees be full lykyng in hylly places the beſt ſettyng of chery trees is in the month of No<g ref="char:EOLunhyphen"/>uembre, and if nedebe in the latter ende of Ianuari And if the chery tree rote, in anywyſe make an hole with a percer vnder the rote, that the water y<hi rend="sup">t</hi> cau<g ref="char:EOLhyphen"/>ſeth y<hi rend="sup">e</hi> rottyng mai haue iſſue oute, it is to ſuppoſe that thys medecyne is good for all maner of trees that begeneth to rot.</p>
+            <p>Alſo it is good for all maner of trees whe<g ref="char:cmbAbbrStroke">̄</g> a bough is cut a waye, that y<hi rend="sup">e</hi> place that is cut be couered w<g ref="char:cmbAbbrStroke">̄</g> claie or ſome other defenſable plaſter for the defence of the rayne, that it make note the tree to rot.</p>
+            <p n="11">The playntyng of prunes, in oulde and moyſti pla<g ref="char:EOLunhyphen"/>ces is beſt in februarie &amp; Marche &amp; the ſtones muſte beſet a hand brede in the earthe, &amp; whan they haue ſtand ſo an hole yeare, take vp y<hi rend="sup">e</hi> ſpringes of them, &amp;
+<pb facs="tcp:21852:3" rendition="simple:additions"/>ſet them deper in the ground, and the ſtones muſt lye in water thre dayes or they beſet.</p>
+            <p n="12">The medler wyll beare well if he be plantyd, but graffe hym in a whyte thorne called an hauthorne, and they will be are the more plenteouſly.</p>
+            <p n="13">If thou wilt haue ani roſes in thi garden, thou muſt take the harde pepyns of y<hi rend="sup">e</hi> ſame roſes, that be ryght rype, and ſowe them in the earth in Febuary or in Marche. And when the ſprynge, temper them with waterſand after y<hi rend="sup">e</hi> ſpace of a yeare thou muſte tranſlate them, and depart them farther from other in whrt other place ye wyll.</p>
+            <p n="14">If thou wylt that a vyne beare white grapes, a<g ref="char:cmbAbbrStroke">̄</g>d on the other ſide reed, puruay that a white vine and a rede he ſet nere together. And whan they be roted meaſurably both like much, and of either pare awai halfe endlong vppon y<hi rend="sup">e</hi> pythe, and twyne them toge<g ref="char:EOLhyphen"/>ther and bynd them ſo, that eyther ſap met without diſioining, and wrape it together with a ſouple linne<g ref="char:cmbAbbrStroke">̄</g> cloth. and euery thre day moyſt it with water tyll it grow. And after that they be growne together thou mayſt cut a way the one rote. And y<hi rend="sup">e</hi> other may bere it, and that vyne ſhall bere both red grapes &amp; whyte not with ſtanding the one rote be donne a waie, &amp; al<g ref="char:EOLhyphen"/>ſo thou mayſt doe ſo with tow pere trees tow ap<g ref="char:EOLhyphen"/>ple trees braunches.</p>
+            <p n="15">Alſo yf thou wilte haue grapes grow in a plomtre or a therie tree, ſett a vine vnder one of thous trees whiche thou wylte, and whan the vine beginneth to grow, bore y<hi rend="sup">e</hi> other tre throughe with a percer, accor<g ref="char:EOLhyphen"/>dynge
+<pb facs="tcp:21852:4" rendition="simple:additions"/>to the greatnes of the vyne, the<g ref="char:cmbAbbrStroke">̄</g> draw throughe the tree and pare a waye the vpper ende of the ſame vyne as farre as it ſhall be in the hole, and ſoo ſuffre it to grow, &amp; whan both be ioyned togeather cut a<g ref="char:EOLhyphen"/>way the rote ende of the vyne by the tree and ſowde that place wel of that cuttyng &amp; drawynge of the vi<g ref="char:EOLhyphen"/>ne throught the hole &amp; the cuttyng awai of the roote of the vyne &amp; y<hi rend="sup">t</hi> muſte be done in marche, &amp; ſome me<g ref="char:cmbAbbrStroke">̄</g> wyl ſaye it muſt be done or y<hi rend="sup">e</hi> knottes be giue to bur<g ref="char:EOLunhyphen"/>gyne, that for that ſtraet drawyng the burgeos be not hurt, &amp; tha<g ref="char:cmbAbbrStroke">̄</g> mayſt thou dow the ſam with diuers trees &amp; dyuers frutes, &amp; make one tree beare to dy<g ref="char:EOLhyphen"/>uers fruytes of dyuers coloures.</p>
+            <p n="16">Alſo it is to wyte that at the vine be good earth, &amp; ſyred it ſelfe of to many ſcurges, it is good to ent y<hi rend="sup">t</hi> of wyth a knyfe, &amp; if it lacke yet ouermoche delue the ſtock a boutand fyll the pyt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>full of grauel of a floude medled with aſhes. Alſo ſum men ſaye, doo in to y<hi rend="sup">e</hi> pyt a good quantyte of ſmall ſtones, &amp; that is good therfore.</p>
+            <p n="17">Item it is to wite that wha<g ref="char:cmbAbbrStroke">̄</g> the mone is in Tau<g ref="char:EOLunhyphen"/>ro, it is good tyme to plant trees of graeues and pe<g ref="char:EOLhyphen"/>pins, &amp; whan ſhe is in La<g ref="char:cmbAbbrStroke">̄</g>cro Leo or Libra it is good workyng of trees that be new ſproung, and wha<g ref="char:cmbAbbrStroke">̄</g> the moone is virgo, it is good tyme to ſowe all maner thinges. And fro<g ref="char:cmbAbbrStroke">̄</g> the myddes of Septembre vnto y<hi rend="sup">e</hi> myddes of December is open tyme of plantynge, a<g ref="char:cmbAbbrStroke">̄</g>d ryght ſo from the myddes of Ianuari to the middes of Marche, but yet in thes tymes it is good to thoſe whan thee moone is .v. vi. vii. viii. or .x. dayes be fore
+<pb facs="tcp:21852:4" rendition="simple:additions"/>the full mone. And after the full in cone when ſhe is xxi. xxii. xxiii. xxiiii. or. xxv. dayes olde, for this quarter of the mone is moſt temperate.</p>
+            <p n="18">Item euery plantynge is to diſpoſe it ſo that the ſo<g ref="char:cmbAbbrStroke">̄</g>ne beames may come to y<hi rend="sup">e</hi> rote or to y<hi rend="sup">e</hi> earth from the houre of terce vnto none. And be planted in the beſt maner. And that the trees that be bearing a<g ref="char:cmbAbbrStroke">̄</g>d of great height that party that ſtode toward the north he be ſet agaynſt the northwynde, and the northweſt wynde. For the heyght, northwynde, &amp; the northweſt wynd hath kynd to kyll and drye to muche the trees that be newe ſet for theyr vnmeaſurable greatnes, y<hi rend="sup">e</hi> earth muſt be ordeined ſo that it be neither to fat nor grauelly but proporcionably.</p>
+            <p n="19">Al maner of pepyus carnels and greynes muſt be ſet in the earthe in depenes of foure or fyue fingers brede that eche be from other halfe a fore. Alway ke<g ref="char:EOLunhyphen"/>pyng thys ſpecyall rule that the ende or grayne of y<hi rend="sup">e</hi> pepyn that ſtandes next the rotte be northeſt in y<hi rend="sup">e</hi> ſet<g ref="char:EOLunhyphen"/>ting &amp; that other ende vpward toward heauen. And that thou moiſt them twiſe or thryſe in the daye, not rottyng but dewyng or ſpringlyng, this is a preuitie among connynge men that in uere is moſt conuena<g ref="char:EOLhyphen"/>ble tyme for ſedes. graeues &amp; pepyns, and Autumne of ſprynges and plantes.</p>
+            <p n="20">Whan thou wylt take a ſetteleng that ſpryngeth cut of an other tre rote, make a delue ther about af<g ref="char:EOLunhyphen"/>ter the quantite therof &amp; ſo depe, tyl thou come to y<hi rend="sup">e</hi> great rote that the ſprynge groweth out of, a<g ref="char:cmbAbbrStroke">̄</g>d thou muſte cutte it of, and holdynge the edge of the knyfe
+<pb facs="tcp:21852:5" rendition="simple:additions"/>toward the tree ground, and cutte it ſo with a ſlope draught &amp; leaue as much of the earth about y<hi rend="sup">e</hi> roote and ſtocke of the ſetting as thou may, a<g ref="char:cmbAbbrStroke">̄</g>d ſette it in a good ground ordeyned therfore, and in a conuenient tyme as it is before ſayd, &amp; if any ſpryng ſo groweth out of any tree choſe it that groweth right out that be not ouer longe, but euen without any ſmall brau<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>ches, holding the knife in the cutting alway toward the tree as is aboue ſayde.</p>
+            <p n="21">Alſo yf thou wylt remoue a tree that is great or bearyng frute, choſe the a ful moone fro<g ref="char:cmbAbbrStroke">̄</g> the middes of Octobre to the myddes of Dicembre, hauing vp the rootes as hole as thou may, leauing as much of his owne earch about the rote as y<hi rend="sup">u</hi> maye with the ſame maner and other as thou doeſt with ſetting of ſmall trees &amp; ſetling it is no force though the moone be not euen in the full ſo ſhe be in the .ii. or .iii. quar<g ref="char:EOLhyphen"/>ter, the gouernayle of theſe plantes is dublynge of bearyng of fruyte.</p>
+            <p n="22">Alſo yf thou wilt kepe late ſet pla<g ref="char:cmbAbbrStroke">̄</g>tes, kepe the<g ref="char:cmbAbbrStroke">̄</g> fro<g ref="char:cmbAbbrStroke">̄</g> velpertyn raynes &amp; from windes, namely in harueſt for it is not great difficulte in vere, againſt the com<g ref="char:EOLhyphen"/>myng of wynter ſet or ſticke about the ſetling many bowes that the northen wynde or greatnes of other wyndes deſtroye it not, put donge medled w<hi rend="sup">c</hi> ſtrawe about the ſtock toward the roote of a good thicknes that froſt &amp; ſnow congyle nat on the rote, and make a depe valey about the rote y<hi rend="sup">e</hi> ſpace of .vi. or .vii. fote that the water abide not and freſe about the rote, in harueſt, that is betwene ſomer &amp; wynter, that whan winter cometh it may be filled with donge and ſolet it ſtand al the winter, and in ver put vnder the dong
+<pb facs="tcp:21852:5" rendition="simple:additions"/>newe earth and cut a way al the vnprofytable bran<g ref="char:EOLhyphen"/>ches &amp; mayke it cleane aboute the ſtocke, and the ro<g ref="char:EOLhyphen"/>tes from wormes ſcurfes and moſſes and euyll we<g ref="char:EOLhyphen"/>des goinge aboute the braynches. all the cloſe of thyne or charde wole be ſet a bout withe other hithe trees that beare on frute, that the fleuers mygte be kepte ſafe from windes. And beware y<hi rend="sup">t</hi> no fruyte be gathered of no tree before the tyme, for that is a ryght greate and at preuy harmyng to the tree.</p>
+            <div type="part">
+               <head>The maner of graffyng.</head>
+               <p n="23">The great ſtocke muſt be choſen in good ground, and it muſt be ſmothe and euen, and cut it with out the earth y<hi rend="sup">e</hi> length of a fout or more, yf it be as great as thi thombe or moore, if it be greater loke that the cutyng be euen ouerthwarte the ſtocke and a ſide and it muſt be clouen a boue in y<hi rend="sup">e</hi> middes of the pith the length of two fyngers breade, and in the clyfte ſet thy graffe whiche muſt be choſen of the beſt tre. The ſtocke is of the chefe graffe that ſtandeth right vpwarde, that hath a knot of the forne yere. And an inche beneth that ſaide knot cut thy graffe &amp; white it on both ſydes euen in maner of a wedge as farre as it ſhal go in to the clifte of the ſtocke, it muſt be ſo euen twhiten y<hi rend="sup">t</hi> the ayre may not com be twene the clyfte and the graffe, and then cloſe it withe good te<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLunhyphen"/>perate earthe a boute the graffe for defence of raine and wether.</p>
+               <p n="24">If thou wilt graffe diuers frutes vpon one ſtocke that hath as many braunches as thou wylte haue graffes on, &amp; in euere brau<g ref="char:cmbAbbrStroke">̄</g>che ſet agraffe in maner &amp; fourme as it is ſayde before, &amp; euermore choſe thy
+<pb facs="tcp:21852:6" rendition="simple:additions"/>graffe on the ſunne ſide of the tree that beareth it, &amp; next the top yf you may, &amp; than mayſt thou graffe dyuerſe frutes in one clifte, but none of them maye be thycker then other as thy reaſon wyll tell them the workyng.</p>
+               <p n="25">To haue fruite without cores, loke thou haue a ſufficient graffe ſtocke. &amp; there w<hi rend="sup">c</hi> as I ſayde be fore choſe a graffe of good merle tree, and cut it on thys maner that the end of the graffe that was vpwarde next the fyrmament muſt be twhiten like the neder of a comyn graffe, &amp; the nether ende turned vpward it is to be donne ſlelye, this rule is trewe in all trees that haue ſtones &amp; kernels, but a vyne it behoueth to cut that is downe warde next y<hi rend="sup">e</hi> erth w<hi rend="sup">t</hi> great co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLunhyphen"/>ninge and fleyghte.</p>
+               <p n="26">If thou wylt haue a vyne growe on a chery tree &amp; haue the taſte of cherys. ſet a vyne by a chery tree tyll it growe, and in the begenning of ſeuerel what time it be, make an hole through y<hi rend="sup">e</hi> cheritre, in what place thou wylt, &amp; as often as thou wilte and drawe through the hole a brau<g ref="char:cmbAbbrStroke">̄</g>che of the vyne, ſo that it fyl the hole, &amp; ſhaue a way the old barke of the vyne as moch as ſhalbe in the hole. And put it in ſo that the ſhauen place of the branche ſtop full the hole of the chery tree, and tha<g ref="char:cmbAbbrStroke">̄</g> cut away the rot ende of the vine and wrape it wel a bout wyth good earth &amp; binde it well wyth a lytle cloth, &amp; kepe it well in all thynges it is ſayd in other graffynges, but ſome men leaue the rote ende on cut a yeare tyll it be ſowdred w<hi rend="sup">t</hi> the chery tree, and than cut it a waey, and thys is a good maner and a ſure, and ſo it may be done with diuers trees of diuers fruytes, and the grape and the vyne
+<pb facs="tcp:21852:6"/>ſhall haue ſauour of theym: And ſo of euery tree may be graffed in other, and it is a maruelous graf<g ref="char:EOLhyphen"/>fyng.</p>
+               <p>If thou wylt haue a tree beare dyuers fruytes and of dyuers coulours, and dyuers ſauoure, in y<hi rend="sup">e</hi> fyrſte yeare graffe in diuers braunches of a chery tree, di<g ref="char:EOLhyphen"/>uerſe apylys to thy lykyng, &amp; cleaue ſome of y<hi rend="sup">e</hi> brau<g ref="char:EOLhyphen"/>ches vngrafted, the ſecond yere make holes through the chery tree, and drawe through that hole vyne branches, the vtter ende ſhaue<g ref="char:cmbAbbrStroke">̄</g> of as is before ſayde and in the ſame maner through an nother hole, read roſe and therewith as is be fore ſayd of the vine, and this diuerſite thou may do after thyne owne liking.</p>
+               <p>If thou wilt haue fentes of dyuers coloures thou ſhalt make an hole in a tree nyghe, to the roote euen to the pith of the tree, and a none do in the hole good a ſure of almayne, ſo that it be nygh full, and than ſtoppe the hole well and iuſt with a ſhorth pyn, and wrappe it well withe tempered earthe a<g ref="char:cmbAbbrStroke">̄</g>d bynde it well as thou doeſt a graffe, and the frutes ſhall be blewe coloure, and thys maye be doone with all co<g ref="char:EOLhyphen"/>loures.</p>
+            </div>
+            <div type="part">
+               <head>¶ Alſo here begynneth a lyttle treatyſe of the .iiii. ſeaſons of the yeare, and alſo of the .iiii. elementes, whiche they be and of what nature, and of the canyculer dayes.</head>
+               <pb facs="tcp:21852:7"/>
+               <p>THe foure elementes be theſe, ayre, fire, earth and water, alſo there ben foure himours in man, &amp; they be theſe, bloud, redde coloure, blacke to lolour, &amp; fleweme. Alſo there be foure ſeaſons in the yeare, in which a man ought and behoueth to be go<g ref="char:EOLhyphen"/>uerned. The firſt is vere a<g ref="char:cmbAbbrStroke">̄</g>d that beginneth the viii. Ide of february, &amp; endureth to the .vii. Ide of Maye in this thime wexeth blood, this is the fyrſt humour of man and accordeth with the ayre, that is the fyrſt element, for it is watry &amp; hote as is vere, that is the fyrſt time of the yeare. And that time bokes of mede<g ref="char:EOLunhyphen"/>cyne lerneth vs to take drynckes ſolyble for to pur<g ref="char:EOLhyphen"/>ge y<hi rend="sup">e</hi> body of euil humours, &amp; to eate fleſhe, &amp; drynke drynkes that be holſome for manes body, as yonge porcke &amp; cleane moton and lambes fleſhe, &amp; kyddes and foules that be of the land, but no water fowles And freſhe water porttes, tame neps and percely, and other herbes of medecine, &amp; to drinke good clea<g ref="char:EOLhyphen"/>ne ale, and no ſtronge ale. And theſe thynges make cleane bloud, ſo they be not ſurfetly taken.</p>
+               <p>The ſeconde tyme and ſeaſon of the yere is ſomer, and begynneth the .vi. Ide. of May and laſteth vnto the .vii. of Auguſt. In that tyme waxeth red coloure to the ſecond element, that is fyre for that is hote a<g ref="char:cmbAbbrStroke">̄</g>d drye. I that tyme men ſhulde not drynke herbes nor let bloude, but yf it were for greate nedenor muche faſte.</p>
+               <p>It is good in that tyme to eate well ſoden fleſhe of all maner of beaſles a<g ref="char:cmbAbbrStroke">̄</g>d all maner of fowles, ſaue porcke in May is good to forbeare, and eate all ma<g ref="char:EOLhyphen"/>ner
+<pb facs="tcp:21852:7"/>of fyſhe wyth vyneger, or yuſe of grappes of ver gius made with good herbes, ſage, and ſauery, and ſede of anneys. fenell ſede and comin, &amp; it is good to drinke wormoode, iii. tymes in the weke tempred wyth wyne, all ſo temper it wyth water and drincke no ſtronge ale, and vſe louage ſeede and letous and they ſhall temper well the redde colour &amp; kepe them from ſycknes.</p>
+               <p>The thyred tyme of the yeare is Autumpnus or harueſt, and it be gynneth the .vii. Ide of Auguſt. &amp; laſteth vnto the .vii. Ide of Nouembre, &amp; in that ty<g ref="char:EOLhyphen"/>me waxe the blacke colour, y<hi rend="sup">t</hi> is the thirde humoure in man, and accordeth to the .iii. eleme<g ref="char:cmbAbbrStroke">̄</g>t, that is erth and that is coulde a<g ref="char:cmbAbbrStroke">̄</g>d drye. In that tyme is it good to take dryncke ſolyble that purgeth the bodie of eueri blacke colour that muche is in a man, &amp; he mai ſome tyme be let bloude in that ſeaſon. And eat litel fyſhe fleſhe, and namely frutes biefe and milke is good to dryncke and good wyne meſurably and good ſtayle ale, and newe ale, &amp; eate ſcaled fyſhe &amp; peper wyth ginger and galingale, &amp; eate bayes and ſtanmarche<g ref="char:EOLunhyphen"/>ſed and comyn, &amp; browort rotes wyth wyne or with other lycoure faſting, and eate not an houre or two after.</p>
+               <p>The .iiii. tyme and ſeaſon in the yere is hyems or wynter, &amp; begeneth the .vii. Ide of Nouembre and laſteth to the, vii. Ide of February, &amp; in that tyme en<g ref="char:EOLunhyphen"/>treth flewme, &amp; that is y<hi rend="sup">e</hi> fourthe humour in man. &amp; accordeth to y<hi rend="sup">e</hi> fourthe element y<hi rend="sup">t</hi> is water, for y<hi rend="sup">t</hi> is colde and moſt as is wynter, and in that tyme men
+<pb facs="tcp:21852:8"/>ſhould let them bloud in theyr bodyes by grafynge, but not no vaynes, but if it be the more nede. And a man muſt kepe hym fro<g ref="char:cmbAbbrStroke">̄</g> drinkyng of ſtrong drynkes And poudred fleſh is good to eate, and for as muche as al fiſhes after water be flumattike, therfore thei be better roſt than ſoden, and vſe muſtard a<g ref="char:cmbAbbrStroke">̄</g>d peper and oft tyme chewe in thy month pellater of ſpayne and ſuche other thinges as wyll cauſe the flew me to voyde, and alſo eate fenelſede, comyn, &amp; eche of theſe ſeedes deſtroye flewme that all the euylles in mans body begynneth of.</p>
+               <p>THe Laniculer dayes begynneth the .xv. kale<g ref="char:cmbAbbrStroke">̄</g>, des of Auguſt and endure to the .iiii. Nonas of Septembre in whiche ſeaſon is great peryl to ta<g ref="char:EOLhyphen"/>ke ſyckenes, a<g ref="char:cmbAbbrStroke">̄</g>d it is perillous to take drinkes or me<g ref="char:EOLhyphen"/>decines or to be let bloud but if it be great nede and that muſt be after the myddes of the daye.</p>
+            </div>
+            <div type="part">
+               <head>¶ The fourme and the meaſure to mete land by.</head>
+               <p>THe lenght of a barlei corne thre times make an ynche, ſo that the barley growe in comyn ſorte not to leue<g ref="char:cmbAbbrStroke">̄</g> to much compoſted, and .xii. ynches make a fote, and .iiii. fote maketh a yearde, &amp; .v. quar<g ref="char:EOLunhyphen"/>ters of the yarde make an elle, fiue fote make a pace a hundred .xxv. pace make a forlonge, and eyght for<g ref="char:EOLunhyphen"/>longes make an englyſhe inyle, and ſyxtene forlon<g ref="char:EOLhyphen"/>ges make a frenche lewge, fyue yardes din make a perche in London to mete land by, and that perch is xv. fote din longe, in dyuers other places in this la<g ref="char:cmbAbbrStroke">̄</g>d
+<pb facs="tcp:21852:8" rendition="simple:additions"/>they mete ground by poles, gaddes and r<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ddes, ſo me be of .xviii, fote, ſome of .xx. &amp; ſome of .xxi. But of what length ſo euer thei be .c. lx. perches make an aker. for as a marke of englyſh moneye conteyneth on .c. lx. pence, ſo euery aker of land conteyneth .c. lx. perches, &amp; as a noble conteyneth .lxxx. pence, ſo halfe an aker of lande conteyneth .lxxx. perches and as the halfe a noble conteyneth .xl, pence. ſo a rode land co<g ref="char:EOLhyphen"/>teyneth .xl. perches, &amp; a perche of ground ſhall con<g ref="char:EOLhyphen"/>tayne in length of that perche euery way in the ma<g ref="char:EOLhyphen"/>ner of a checker, ſo that it be as longe as broade.</p>
+               <p>xvi <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ote &amp; a halfe maketh a perch as is a boue ſaid that is .v. yardes and a halfe .vi. L. fote by liueſcore to the hundred maketh a forlong, that is .xxviii. per<g ref="char:EOLunhyphen"/>ches ſaue two fote, viii. furlonges make an engliſh myle that is .v. M. fote, &amp; ſo. LL. &amp; .iii. perches al ſo are an englyſhe myle.</p>
+            </div>
+            <trailer>¶ Here endeth this lytle treatyſe that ſpeaketh of plantyng and graffeyng of trees, and dyuers o<g ref="char:EOLhyphen"/>ther matters, and alſo of dyuers medy<g ref="char:EOLhyphen"/>cynes for mans health.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprynted at London in Lothbery ouer agay<g ref="char:cmbAbbrStroke">̄</g>nſt S. Bargarets church by me Wyllyam Lopland.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
